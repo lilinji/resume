@@ -1,4 +1,3 @@
-# resume
 简历（Resume）
 -------------------------------------------
 
@@ -10,17 +9,17 @@
 ### 个人信息
 
 * 李林吉/男/1987
-* 硕士/南开大学经济学
+* 硕士/南开大学经济学(在读)
 * 工作年限：8年
 * 技术博客：http://lilinji.blog.51cto.com/
 * GitBook：https://xiaoshen.gitbooks.io 
 * Github： http://github.com/lilinji
-* 期望职位：HPC集群运维，系统运维工程师，云业务产品，售前技术支持。
+* 期望职位：IT售前技术支持，HPC集群运维，linux运维工程师，PAAS云业务产品。
 * 期望城市：全国
 
 ### 技术能力
 
-专注并且热爱云业务运维，异构高性能计算领域，NetWork、 Compute、Storage、并结合业务框架来搭建交付应用、熟练使用原生云产品 AWS  Aliyun 腾讯云等 Paas Saas平台。
+专注并且热爱技术成果转化，异构高性能计算领域，NetWork、 Compute、Storage、并结合业务框架来搭建交付应用、熟悉原生云产品 AWS  Aliyun 腾讯云等 Paas Saas平台。
 
 ### 开源项目和作品
 
@@ -32,10 +31,9 @@
 
 
 
-
 ### 工作经历
 
-####  诺禾致源 （ 2015年5月 ~ 至今 ）技术总监 |Globle
+####  诺禾致源 （ 2015年5月 ~ 至今 ）技术负责人 |Globle
 
 ####  项目经历
 
@@ -93,23 +91,27 @@
 
 #### 北京新浪科技SAE（2009.06-2010.06）（运维实习）
   + 1，迭代SEA网站站内数据更新（update）
-  + 2，分布式文件存储GPFS运维
-  + 3，mysql线上数据库维护
+  + 2，批量计算平台运维
+  + 3，数据计算与归档
 
 ### 自我评价
 
 热爱编程，喜欢户外，善于折腾，研究IT新兴技术如：（AI，区块链，人工智能）。
 
 ### 技能清单
-* 掌握的编程语言类：Perl、Python、R-Project
-* 掌握的分布式存储框架：OneFs、GPFS、GlusterFS、GFS、HDFS、Lustre 、Ceph
-* 掌握的分布式调度系统：openmpi、mpich2、SGE、LSF、Slurm
-* 掌握Linux优化工具：Fio、SYSSTAT、Sysctl、Ifstat
-* 理解基本云构建工具：Docker、Xen、Kvm、VMware、OpenStack、kubernetes
-* 了解基本大数据框架：Hadoop、spark
-* 掌握项目管理和协同工具的使用：SVN、Git
-* 网络及信息化类：CCNP、CHNP、ERP、OA
-* 了解基本后端开发：NodeJS、Python
+* 后端框：Django，Flask，Scrapy
+* 文件系统框架：OneFs、GPFS、GlusterFS、GFS、HDFS、Lustre 、Ceph
+* HPC框架：openmpi、mpich2、SGE、LSF、Slurm
+* 工具：Docker、Xen、Kvm、VMware、OpenStack、kubernetes、Jenkins、Git
+* 数据库：Mysql、
+* 网络标签：CCNP、CHNP
+* 前端框架：NodeJS、vue
+* 其他：HTTP,TCP/IP,WebSocket
+
+### 关注
+
+* Google Linux & DevOps
+* ServiceMesher
 
 ### 目前在学习
 
